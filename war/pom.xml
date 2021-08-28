@@ -21,7 +21,7 @@
         <test.jetty.port>8080</test.jetty.port>
         <test.jetty.stop-port>9999</test.jetty.stop-port>
         <test.jetty.stop-key>STOP</test.jetty.stop-key>
-        <jetty.version>9.2.1.v20140609</jetty.version>
+        <jetty.version>9.4.9.v20180320</jetty.version>
     </properties>
 
     <dependencies>
